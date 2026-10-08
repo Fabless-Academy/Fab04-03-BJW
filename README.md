@@ -8,7 +8,10 @@
 - [repo link](https://github.com/Fabless-Academy/Fab04-03-BJW)
 - 첫번쨰
 - 두번째
+    - 하위
 
 1. 테스트
 2. 테스트
-    -하위
+    - 하위
+
+### [문서](./docs/readme.md)
