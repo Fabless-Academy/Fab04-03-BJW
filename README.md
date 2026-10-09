@@ -2,6 +2,7 @@
  - [repo link](https://github.com/Fabless-Academy/Fab04-03-BJW)
 
 ## 팹리스 점프업 일경험
+[사진](./docs/readme.md)
 
 ### 텔레칩스
 - 첫번쨰
