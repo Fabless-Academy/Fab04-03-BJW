@@ -1,20 +1,23 @@
-# Fab04-03-BJW
- - [repo link](https://github.com/Fabless-Academy/Fab04-03-BJW)
+# Fab04-03-Bjw
+ 
+  # 안녕하세요, 변준우입니다.
+ - [profile](https://github.com/Fabless-Academy/Fab04-03-BJW)
+ - contact: jw050715@naver.com
 
-## 팹리스 점프업 일경험
-[사진](./docs/readme.md)
+ ## About Me
+- education: 금오공과대학교 전자공학부 반도체시스템 전공 (2024.03 ~)
 
-### 텔레칩스
-- 첫번쨰
-- 두번째
-    - 하위
+## Project
 
+### 팹리스 점프업 일경험
+![사진](docs/images/fabless.png)
 
-### 넥스트칩
-1. 테스트
-2. 테스트
-    - 하위
+#### 텔레칩스
+- D3-G
+- VCP-G
+- AI-G
 
-
+#### 넥스트칩
+- 
 
 ### [문서](./docs/readme.md)
